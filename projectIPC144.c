@@ -1,7 +1,7 @@
 //Fernando Henrique Zavalloni Proto
 
 /*------------------------------------------
-  File   : project.c
+  File   : projectIPC144.c
   Purpose: Create functions of the project
   Author : Fernando Henrique Zavalloni Proto
   Date   : 2016-12-05
